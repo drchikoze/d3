@@ -1,0 +1,19 @@
+.test {
+  background-color: red;
+}
+
+#pdatamap-container g.arc {
+	fill: steelblue;
+}
+
+#pdatamap-container g.pointer {
+	fill: #e85116;
+	stroke: #b64011;
+}
+
+#pdatamap-container g.label text {
+	text-anchor: middle;
+	font-size: 14px;
+	font-weight: bold;
+	fill: #666;
+}
